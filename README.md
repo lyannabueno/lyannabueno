@@ -31,4 +31,4 @@
 
 - ⚡ Fun fact:  I practice Krav Maga, love painting, and am deeply connected with nature.
 
-![snake animation](https://github.com/<lyannabueno>/<lyannabueno>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/lyannabueno/lyannabueno/blob/output/github-contribution-grid-snake2.svg)
