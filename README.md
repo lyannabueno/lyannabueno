@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Ana Bueno! 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyannabueno&layout=compact)
 
-- 🔭 Working with front-end development and workflow automation, proficient in HTML, CSS, SASS, Gulp, and the frameworks Bootstrap and jQuery;
+- 🔭 Working with front-end development and automation of workflows with expertise in HTML, CSS, SASS, Gulp and the BootStrap and Jquery frameworks;
 
-- 🌱 Learning about full-stack Python development, microservices creation, front and back-end integration, developing tests with Django, Postgres, and API, software deployment with a DevOps approach, and SQL databases;
+- 🌱 Learning about full-stack Python development, microservices creation, front and back-end integration, developing tests with Django, Postgres, and API, deploying software with a DevOps approach and SQL databases;
   <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +18,7 @@
           
   </div>
   
-- 👯 Seeking to collaborate on projects that not only challenge my technical skills but also allow me to contribute and grow in a dynamic and innovative environment;
+- 👯 Seeking to collaborate on projects that not only challenge my technical skills, but also allow me to contribute and grow in a dynamic and innovative environment;
   
 - 😄 Pronouns: she / her;
 
