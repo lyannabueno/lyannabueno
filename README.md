@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Ana Bueno! 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyannabueno&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyannabueno&layout=compact&langs_count=10)
 
 - 🔭 Working with front-end development and automation of workflows with expertise in HTML, CSS, SASS, Gulp and the BootStrap and Jquery frameworks;
 
@@ -30,3 +30,5 @@
   </div>
 
 - ⚡ Fun fact:  I practice Krav Maga, love painting, and am deeply connected with nature.
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyannabueno&theme=default_icons=true)
