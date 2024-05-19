@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Ana Bueno! 
 
-- 🔭 Working with front-end development and workflow automation with expertise in HTML, CSS, JS, SASS and LESS processors (applying the BEM methodology), Gulp and Grunt automators and BootStrap and Jquery frameworks;
+- 🔭 Working with front-end development, proficient in HTML5, CSS3, SASS/SCSS/LESS for efficient styling, Bootstrap for responsive design, JavaScript for interactivity, Node.js for server-side applications, jQuery for simplifying tasks, Gulp/Grunt for automation and Parcel for web application bundling;
 
 <p align="center">
   <a href="https://github.com/lyannabueno">      
@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,jquery,less,sass,python,gulp,bootstrap,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,sass,less,gulp,bootstrap" />
   </a>
 </p>
 
 ##
 
-- 🌱 Learning about full-stack Python development, microservices creation, front and back-end integration, developing tests with Django, Postgres, and API, deploying software with a DevOps approach and SQL databases;
+- 🌱 In the short term, I plan to advance in the field by specializing in full-stack Python development, and in the long term, I aspire to evolve into a software engineer;
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lyannabueno&show_icons=true&locale=en&theme=moltack&rank_icon=github" />
