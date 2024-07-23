@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Ana Bueno! 
 
-- 🔭 Working with front-end development, proficient in HTML5, CSS3, SASS/SCSS/LESS for efficient styling, Bootstrap for responsive design, JavaScript for interactivity, Node.js for server-side applications, jQuery for simplifying tasks, Gulp/Grunt for automation and Parcel for web application bundling;
+- 🔭 Front-End Developer with over 1 year of experience in web development, creating and maintaining dynamic and responsive applications. Proficient in HTML5, CSS3, JavaScript ES6, TypeScript, preprocessors LESS and SASS, and frameworks such as Bootstrap, jQuery and BootStrap and Vue.js. Skilled in using packaging and automation tools like Parcel, Gulp, and Grunt, as well as knowledgeable in Node.js and Git. Currently studying and practicing Back-End integration with Python in developed projects.
 
 <p align="center">
   <a href="https://github.com/lyannabueno">      
