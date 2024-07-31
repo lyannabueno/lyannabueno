@@ -48,5 +48,5 @@
 - 👯 Seeking to collaborate on projects that not only challenge my technical skills, but also allow me to contribute and grow in a dynamic and innovative environment;
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyannabueno&hide_progress=true&theme=moltack" style="width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyannabueno&hide_progress=true&theme=moltack&langs_count=7" style="width: 400px;" />
 </p>
